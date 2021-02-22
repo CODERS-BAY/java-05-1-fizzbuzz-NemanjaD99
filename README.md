@@ -4,7 +4,9 @@
 
 ### Aufgabe 5.1 FizzBuzz
 
-FizzBuzz ist ein Spiel um Kindern Division näher zu bringen. Die Regeln sind einfach - Reih um wird beginnend bei der Zahl 1 nach oben gezählt. Ist die Zahl durch drei teilbar, darf die Zahl allerdings nicht genannt werden - man muss Fizz sagen, ist die Zahl durch fünf teilbar muss Buzz gesagt werden. Und - ist die Zahl durch drei und fünf teilbar, muss FizzBuzz gesagt werden. 
+FizzBuzz ist ein Spiel um Kindern Division näher zu bringen. Die Regeln sind einfach - Reih um wird beginnend bei der Zahl 1 nach oben gezählt.
+Ist die Zahl durch drei teilbar, darf die Zahl allerdings nicht genannt werden - man muss Fizz sagen, ist die Zahl durch fünf teilbar muss Buzz gesagt werden.
+Und - ist die Zahl durch drei und fünf teilbar, muss FizzBuzz gesagt werden. 
 
 Als Beispiel: “Eins! Zwei! Fizz(3)! Vier! Buzz(5)! Fizz(6)! Sieben! Acht! Fizz(9)! Buzz(10)!”
 
