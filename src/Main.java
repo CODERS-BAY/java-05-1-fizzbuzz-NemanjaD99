@@ -13,7 +13,7 @@ public class Main {
             } else if ( i % 5 == 0) {
                 System.out.println("Buzz");
             }
-            else   System.out.println(i);
+            else   {System.out.println(i);}
         }
 
 
